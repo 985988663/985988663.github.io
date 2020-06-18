@@ -1,0 +1,16 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "5484254",
+      "name": "设计",
+      "font_class": "sheji",
+      "unicode": "e793",
+      "unicode_decimal": 59283
+    }
+  ]
+}
